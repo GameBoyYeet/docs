@@ -13,14 +13,14 @@ Design is covered in the [Human Interface Guidelines \(HIG\)](https://docs.eleme
 ## Writing Apps
 
 This guide details:
-* Building apps using GTK, Granite, and other technology available in elementary OS
+* Building apps using GTK, Granite, and other technologies available in elementary OS
 * Setting up a build system
 * Hosting your code for collaborative development
 * Working with translations
 * Packaging and distributing your new app on AppCenter
 * Working with Platform APIs
 
-You may feel confident enough to jump straight into writing your first appp:
+You may feel confident enough to jump straight into writing your first app:
 
 {% page-ref page="writing-apps/our-first-app/" %}
 
